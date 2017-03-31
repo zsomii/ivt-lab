@@ -4,7 +4,9 @@ package hu.bme.mit.spaceship;
 * Weapon firing mode enumeration
 *
 */
-/*aasdasd*/
+
+/*Modified for conflict v33*/
+
 public enum FiringMode {
   SINGLE, ALL
 }
