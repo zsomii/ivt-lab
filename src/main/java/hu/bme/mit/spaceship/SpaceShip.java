@@ -4,6 +4,8 @@ package hu.bme.mit.spaceship;
 * Defines basic spaceship functionality
 * (collects just the most important ones currently)
 */
+
+/*Modified for conflict v1*/
 public interface SpaceShip {
 
   /**
