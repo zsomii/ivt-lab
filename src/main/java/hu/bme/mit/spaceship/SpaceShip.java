@@ -5,7 +5,7 @@ package hu.bme.mit.spaceship;
 * (collects just the most important ones currently)
 */
 
-/*Modified for conflict v1*/
+/*Modified for conflict v2*/
 public interface SpaceShip {
 
   /**
